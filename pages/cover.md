@@ -1,5 +1,4 @@
 ---
-layout: cover
 background: /public/assets/Cover.png
 class: text-right
 level: 1
