@@ -1,5 +1,6 @@
 ---
-background: /public/assets/Cover.png
+layout: cover
+background: /assets/Cover.png
 class: text-right
 level: 1
 ---
