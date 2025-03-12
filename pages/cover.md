@@ -1,15 +1,14 @@
 ---
+layout: cover
 background: /public/assets/Cover.png
 class: text-right
 level: 1
 ---
 
-<!-- # หลักสูตรการพัฒนา Frontend ด้วย Vue3 -->
 # Frontend 
 # Development
 # Course with Vue3
-
-<p class="custom-subtitle"> (หลักสูตรการพัฒนา Frontend ด้วย Vue3) </p>
+# By Composition APIs.
 
 <div class="custom-display-credit abs-br m-6 text-xl">
   <p> Presented by Boonyawat Kwangta (บุณยวัฒน์ กวางต๊ะ) </p>
@@ -32,13 +31,6 @@ h1 {
   color: white !important;
   opacity: 0.8 !important;
 }
-.custom-subtitle {
-  font-size: 1.5rem !important;
-  margin: 0 !important;
-  margin-bottom: 16px !important;
-  color: white !important;
-  opacity: 0.8 !important;
-}
 .custom-display-credit {
   display: flex !important;
   align-item: center !important;
@@ -49,3 +41,10 @@ h1 {
   opacity: 0.8 !important;
 }
 </style>
+
+<!--
+- สวัสดีครับขอต้อนรับเข้าสู่หลักสูตร Frontend Development Course with Vue3 By Composition APIs. ครับ
+ผม นายบุณยวัฒน์ กวางต๊ะ เป็นผู้สอนหลักสูตรนี้ครับ
+
+- Overview Slide
+-->
