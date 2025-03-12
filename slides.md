@@ -6,7 +6,7 @@ info: |
   ##### Presented by Boonyawat Kwangta
   ###### บุณยวัฒน์ กวางต๊ะ
 drawings:
-  persist: true
+  enabled: true
 fonts:
   sans: Prompt
   serif: Itim
@@ -85,4 +85,109 @@ src: pages/23.md
 ---
 ---
 src: pages/24.md
+---
+---
+src: pages/25.md
+---
+---
+src: pages/26.md
+---
+---
+src: pages/27.md
+---
+---
+src: pages/28.md
+---
+---
+src: pages/29.md
+---
+---
+src: pages/30.md
+---
+---
+src: pages/31.md
+---
+---
+src: pages/32.md
+---
+---
+src: pages/33.md
+---
+---
+src: pages/34.md
+---
+---
+src: pages/35.md
+---
+---
+src: pages/36.md
+---
+---
+src: pages/37.md
+---
+---
+src: pages/38.md
+---
+---
+src: pages/39.md
+---
+---
+src: pages/40.md
+---
+---
+src: pages/41.md
+---
+---
+src: pages/42.md
+---
+---
+src: pages/43.md
+---
+---
+src: pages/44.md
+---
+---
+src: pages/45.md
+---
+---
+src: pages/46.md
+---
+---
+src: pages/47.md
+---
+---
+src: pages/48.md
+---
+---
+src: pages/49.md
+---
+---
+src: pages/50.md
+---
+---
+src: pages/51.md
+---
+---
+src: pages/52.md
+---
+---
+src: pages/53.md
+---
+---
+src: pages/54.md
+---
+---
+src: pages/55.md
+---
+---
+src: pages/56.md
+---
+---
+src: pages/57.md
+---
+---
+src: pages/58.md
+---
+---
+src: pages/59.md
 ---
